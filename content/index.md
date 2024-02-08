@@ -1,5 +1,5 @@
 ---
-title: Welcome to Quartz
+title: Welcome to Public Blog Test2
 ---
 
 This is a blank Quartz installation.
